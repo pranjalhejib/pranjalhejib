@@ -40,18 +40,18 @@ B.E II Year Computer Science Engineering Student. Currently working as a Web Dev
 <img alt="C" src="https://img.shields.io/badge/C language%20-%23323330.svg?&style=for-the-badge&logo=C&logoColor=blue"/>
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></p>
-<br>
+
 
 ### Frameworks :
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<br>
+
 
 ### Databases:
 <p>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></p>
 <br>
-<br>
+
 <!-- STATS -->
  <a href="https://github.com/pranjalhejib">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pranjalhejib&theme=buefy&show_icons=true" />
