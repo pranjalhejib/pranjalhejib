@@ -66,4 +66,4 @@ B.E II Year Computer Science Engineering Student. Currently working as a Web Dev
 
  ##  Contact Me :speech_balloon:
  
-  [![Gmail Badge](https://img.shields.io/badge/-pavanjoshi2050@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjoshi2050@gmail.com)](mailto:)
+  [![Gmail Badge](https://img.shields.io/badge/-hejibpranjal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hejibpranjal@gmail.com)](mailto:)
