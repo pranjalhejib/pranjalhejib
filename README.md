@@ -1,16 +1,58 @@
-### Hi there 👋
+# <a href="https://www.linkedin.com/in/pranjalhejib/"> Hello, Folks! I'm Pranjal Hejib </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**pranjalhejib/pranjalhejib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/pranjalhejib/">
+<img align="left" src="https://img.icons8.com/color/30/000000/linkedin.png"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/pranjalhejib">
+<img align="left" src="https://img.icons8.com/material-outlined/30/FFFFFF/github.png"/>
+</a>
+
+<a href="https://www.instagram.com/pranjalhejib/">
+<img align="left" src="https://img.icons8.com/fluency/30/000000/instagram-new.png"/>
+</a>
+
+<a href="https://twitter.com/HejibPranjal">
+<img align="left" src="https://img.icons8.com/color/30/000000/twitter--v1.png"/>
+</a>
+
+<br>
+<br>
+Aspiring Computer Science Engineer | Data Science Enthusiast.
+
+---
+## About :man_technologist:
+---
+B.E II Year Computer Science Engineering Student. Currently working as a Web Developer Intern for 'The Sparks Foundation'. Passionate about Software Development, Data Science.
+
+<br>
+
+---
+## Technology and Tools 🔧
+---
+
+### Programming Languages :
+
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="C" src="https://img.shields.io/badge/C language%20-%23323330.svg?&style=for-the-badge&logo=C&logoColor=blue"/>
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<br>
+
+### Frameworks :
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<br>
+
+### Databases:
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<br>
+<br>
+<!-- STATS -->
+ <a href="https://github.com/pranjalhejib">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pranjalhejib&theme=buefy&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalhejib&theme=buefy&layout=compact" />
+</a>
