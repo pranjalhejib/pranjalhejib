@@ -24,7 +24,7 @@ Aspiring Computer Engineer | Data Science Enthusiast.
 ---
 ## About :man_technologist:
 ---
-B.E II Year Computer Science Engineering Student. Currently working as a Web Developer Intern for 'The Sparks Foundation'. Passionate about Software Development, Data Science.
+B.E II Year Computer Science Engineering Student. Currently working as a Web Developer Intern for TS Foundation. Passionate about Software Development, Data Science.
 
 <br>
 
