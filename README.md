@@ -19,7 +19,7 @@
 
 <br>
 <br>
-Aspiring Computer Science Engineer | Data Science Enthusiast.
+Aspiring Computer Engineer | Data Science Enthusiast.
 
 ---
 ## About :man_technologist:
