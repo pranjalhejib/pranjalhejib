@@ -43,6 +43,7 @@ B.E Final Year Computer Science Engineering Student. Worked as a Web Developer I
 
 
 ### Frameworks :
+<img alt="django" src="https://img.shields.io/badge/django%20-%23323330.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 
