@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/pranjalhejib/"> Hello, Folks! I'm Pranjal Hejib </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 
 <a href="https://www.linkedin.com/in/pranjalhejib/">
