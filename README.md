@@ -1,5 +1,5 @@
 
-
+<!--
 
 <a href="https://www.linkedin.com/in/pranjalhejib/">
 <img align="left" src="https://img.icons8.com/color/30/000000/linkedin.png"/>
@@ -48,6 +48,8 @@ CyberSecurity Analyst | Global SOC
 <br>
 
 <!-- STATS -->
+
+<!--
  <a href="https://github.com/pranjalhejib">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pranjalhejib&theme=buefy&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalhejib&theme=buefy&layout=compact" />
@@ -61,4 +63,4 @@ CyberSecurity Analyst | Global SOC
 
  ##  Contact Me :speech_balloon:
  
-  [![Gmail Badge](https://img.shields.io/badge/-hejibpranjal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hejibpranjal@gmail.com)](mailto:)
+  [![Gmail Badge](https://img.shields.io/badge/-hejibpranjal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hejibpranjal@gmail.com)](mailto:) -->
