@@ -19,11 +19,6 @@
 
 <br>
 <br>
-Aspiring Computer Engineer | Data Science Enthusiast.
-
----
-## About :man_technologist:
----
 CyberSecurity Analyst | Global SOC  
 <br>
 
