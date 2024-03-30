@@ -24,8 +24,7 @@ Aspiring Computer Engineer | Data Science Enthusiast.
 ---
 ## About :man_technologist:
 ---
-B.E Final Year Computer Science Engineering Student. Worked as a Web Developer Intern for TS Foundation. Passionate about Software Development, Data Science.
-
+CyberSecurity Analyst | Global SOC  
 <br>
 
 ---
